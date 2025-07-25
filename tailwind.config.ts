@@ -52,6 +52,21 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				yoolax: {
+					DEFAULT: 'hsl(var(--yoolax-primary))',
+					secondary: 'hsl(var(--yoolax-secondary))',
+					accent: 'hsl(var(--yoolax-accent))'
+				},
+				galactic: {
+					DEFAULT: 'hsl(var(--galactic-primary))',
+					secondary: 'hsl(var(--galactic-secondary))',
+					accent: 'hsl(var(--galactic-accent))'
+				},
+				ghm: {
+					DEFAULT: 'hsl(var(--ghm-primary))',
+					secondary: 'hsl(var(--ghm-secondary))',
+					accent: 'hsl(var(--ghm-accent))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
